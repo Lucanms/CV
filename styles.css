@@ -1,0 +1,41 @@
+* {
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #000;
+}
+
+.box {
+  margin: 15px;
+  border: 3px solid #fff;
+  height: 800px;
+  padding: 70px;
+}
+
+.line {
+  border-color: #fff;
+  width: 70%;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 350px;
+}
+
+.info_title {
+  color: aquamarine;
+  margin: 0 0 15px 0;
+}
+
+h1 {
+  margin: 20px 0;
+}
+
+
